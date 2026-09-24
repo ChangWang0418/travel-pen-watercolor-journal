@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片转水彩旅行手账"
+  short_description: "保留照片构图，转绘细密钢笔水彩，搭配手写标题与水彩试色色卡"
+  default_prompt: "使用 $travel-pen-watercolor-journal 将我上传的照片转成参考同款钢笔水彩旅行手账，保留主体与构图。"
